@@ -37,4 +37,4 @@ send me an email.
 
 # license
 
-TODO
+Apache License 2.0 (http://www.apache.org/licenses/)
