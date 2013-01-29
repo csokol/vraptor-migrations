@@ -9,7 +9,7 @@ TODO: maven
 
 # how to use
 
-Just create a class with name **M<number>AnyNameHere**. The number should always increase
+Just create a class with name **M(number)AnyNameHere**. The number should always increase
 and never repeated.
 
 --------   
