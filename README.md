@@ -30,7 +30,7 @@ public class M001TestMigration extends Migration{
 }
 ```
 
-Also, you need to have Session and SessionFactory (using your own Creator or even VRaptor's Hibernate plugin).
+Also, you need to have Session and SessionFactory as a Component (using your own Creator or even VRaptor's Hibernate plugin).
 
 # help
 
