@@ -9,8 +9,8 @@ TODO: maven
 
 # how to use
 
-Just create a class with name **M(number)AnyNameHere**. The number should always increase
-and never repeated.
+Just create a class with name **M(number)AnyNameHere**. The number should always increase,
+contain 3 digits (001, 002, ...), and never repeat.
 
 --------   
 ```java
